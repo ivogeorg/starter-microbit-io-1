@@ -17,8 +17,13 @@ This assignment asks you to use the GPIO pins of the micro:bit to achieve extern
 #### 2.2 Digital input pin
 
 1. Keeping at least one analog output pin, open a digital input pin and hook it up to a TTL input button on the workstation. Light the external LED when you detect a 1 on the input button (that is, the button is _pressed_). Commit the modified JavaScript file to your assignment repository. Call it `digital-in.js`. Do you need a [_pullup resistor_](https://www.google.com/search?q=pullup+pulldown+resistor&oq=pullup+pull)?
-
 2. **(Bonus)** Try to drive one of the internal LEDs **and** the external LED on the analog output pin **at the same time**. Commit the modified JavaScript file to your assignment repository. Call it `on-board-and-external-out.js`.
+
+#### 2.3 Videos of operation
+
+1. For each programming file, record a short video of the LED operation. Upload to [Imgur](https://imgur.com/).
+
+2. **(Bonus)** Make one video out of the different clips and upload to [Imgur](https://imgur.com/).
 
 ### 3. Criteira for micro:bit JS programs
 
